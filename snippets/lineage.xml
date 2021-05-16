@@ -175,5 +175,6 @@
   <project path="vendor/fe-prebuilts" name="Lineage-FE/android_vendor_fe-prebuilts" />
   <project path="external/faceunlock" name="Lineage-FE/external_faceunlock" />
   <project path="packages/apps/FaceUnlockService" name="Lineage-FE/packages_apps_FaceUnlockService" />
-
+  <project path="external/asus/stitchimage" name="Lineage-FE/external_asus_stitchimage" groups="pdk-fs" />
+  <project path="frameworks/support/lottie" name="Lineage-FE/frameworks_support_lottie" groups="pdk" />
 </manifest>
